@@ -1,0 +1,119 @@
+{
+   "checksum": "2108620ec6d6c9c3f7a3903c241a2a62",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13358155960874321",
+            "date_last_used": "0",
+            "guid": "a35a4b0f-661e-4a55-b60a-8eacdf279aa4",
+            "id": "11",
+            "name": "Amazon.co.uk - Online Shopping",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13358155960874146",
+            "date_last_used": "0",
+            "guid": "37b79490-a458-4871-a625-5ba5a96e4f89",
+            "id": "10",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.agoda.com/?cid=1649895&tag=NW22C1EF"
+         }, {
+            "date_added": "13358155960873976",
+            "date_last_used": "0",
+            "guid": "dc8c0cfc-22be-4b8b-8019-1437aec12f19",
+            "id": "9",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13358155960873771",
+            "date_last_used": "0",
+            "guid": "1b42957e-cc95-44cb-a7cd-b3694f18f574",
+            "id": "8",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13358155960872808",
+            "date_last_used": "0",
+            "guid": "5d8481a1-321a-4399-809c-e563c18aa66b",
+            "id": "7",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13308659153374633",
+            "date_last_used": "0",
+            "guid": "ce67cd74-e655-4356-9cbb-3c524fea75db",
+            "id": "12",
+            "name": "Amazon.in - Online Shopping",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/bit/amazonbookmark.html?tag=hp2-brobookmark-us-20&partner=HP"
+         } ],
+         "date_added": "13358155960582373",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13308659153374633",
+               "date_last_used": "0",
+               "guid": "816572fe-fd47-4ce5-95a7-f7103522afdf",
+               "id": "14",
+               "name": "Amazon.in - Online Shopping",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.amazon.com/gp/bit/amazonbookmark.html?tag=hp2-brobookmark-us-20&partner=HP"
+            } ],
+            "date_added": "13358155963796510",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "bde6f64f-b63a-45bb-9494-6cb90d7a3142",
+            "id": "13",
+            "name": "HP",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13358155960582377",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13358155960582378",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
